@@ -200,7 +200,7 @@ Expected response:
 }
 ```
 
-Step 5: Observability & Operations
+## Step 5: Observability & Operations
 * Logs: CloudWatch → `/ecs/<env>/<service-name>`
 * Metrics: ECS CPU/Memory, ALB request counts
 
